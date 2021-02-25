@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">SecondExercise</string>
+    <string name="on_create">On create called!</string>string>
+    <string name="on_restart">On restart called!</string>string>
+    <string name="on_start">On start called!</string>string>
 </resources>
