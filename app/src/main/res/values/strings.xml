@@ -3,4 +3,8 @@
     <string name="on_create">On create called!</string>string>
     <string name="on_restart">On restart called!</string>string>
     <string name="on_start">On start called!</string>string>
+    <string name="on_resume">On resume called!</string>string>
+    <string name="on_pause">On pause called!</string>string>
+    <string name="on_stop">On stop called!</string>string>
+    <string name="on_destroy">On destroy called!</string>string>
 </resources>
